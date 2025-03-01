@@ -1,4 +1,4 @@
-# zsub
+# Zsub
 This is a website subdomoin Finder tool it can find 10 milion + subdomins . 
 The Website Subdomain Finder is a simple and effective tool designed to help users discover subdomains associated with a given domain name. This tool performs automated subdomain enumeration and returns a list of possible subdomains for a target website, making it useful for security professionals, website administrators, and developers looking to understand the structure of a website more deeply.
 
@@ -33,7 +33,7 @@ Install dependencies:
 
 Run the tool:
 
-    python3 Zsub.py
+    python3 Zsub.py 
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/shazed-x/count.svg)
