@@ -33,7 +33,7 @@ Install dependencies:
 
 Run the tool:
 
-    python3 zsub.py
+    python3 Zsub.py
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/shazed-x/count.svg)
