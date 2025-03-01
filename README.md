@@ -43,9 +43,6 @@ Run the tool:
 
 
 
-[url=https://freeimage.host/i/32MHf2f][img]https://iili.io/32MHf2f.md.png[/img][/url]
-[url=https://freeimage.host/][img]https://iili.io/32MH31s.png[/img][/url]
-[url=https://freeimage.host/i/32MHFrG][img]https://iili.io/32MHFrG.md.png[/img][/url]
-[url=https://freeimage.host/i/32MH2Bn][img]https://iili.io/32MH2Bn.md.png[/img][/url]
+<a href="https://freeimage.host/i/32MHf2f"><img src="https://iili.io/32MHf2f.th.png" alt="32MHf2f.th.png" border="0"></a> <a href="https://freeimage.host/i/32MH31s"><img src="https://iili.io/32MH31s.th.png" alt="32MH31s.th.png" border="0"></a> <a href="https://freeimage.host/i/32MHFrG"><img src="https://iili.io/32MHFrG.th.png" alt="32MHFrG.th.png" border="0"></a> <a href="https://freeimage.host/i/32MH2Bn"><img src="https://iili.io/32MH2Bn.th.png" alt="32MH2Bn.th.png" border="0"></a>
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/shazed-x/count.svg)
