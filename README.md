@@ -21,6 +21,12 @@ The user inputs a target domain into the tool.
 The tool queries different APIs, search engines, and DNS records to enumerate subdomains.
 Results are displayed in a list format, showing the discovered subdomains.
 
+
+Usage: 
+               " Zsub.py -h " For Help 
+               " Zsub.py -d " To Select terget DOomain 
+               " Zsub.py -w " Adding WORDLIST Of Subdomins 
+
 Installation:
 
 Clone the repository:
