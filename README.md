@@ -23,17 +23,17 @@ Results are displayed in a list format, showing the discovered subdomains.
 
 Installation:
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/yourusername/website-subdomain-finder.git
+    https://github.com/shazed-x/zsub.git
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Run the tool:
 
-python subdomain_finder.py
+    python3 zsub.py
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/shazed-x/count.svg)
