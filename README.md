@@ -24,7 +24,7 @@ Results are displayed in a list format, showing the discovered subdomains.
 
 Usage: 
                " Zsub.py -h " For Help 
-               " Zsub.py -d " To Select terget DOomain 
+               " Zsub.py -d " To Select terget Domain 
                " Zsub.py -w " Adding WORDLIST Of Subdomins 
 
 Installation:
@@ -39,7 +39,7 @@ Install dependencies:
 
 Run the tool:
 
-    python3 Zsub.py 
+    python3 Zsub.py -d exampul.com -w Subdomain.txt
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/shazed-x/count.svg)
