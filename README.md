@@ -21,7 +21,19 @@ The user inputs a target domain into the tool.
 The tool queries different APIs, search engines, and DNS records to enumerate subdomains.
 Results are displayed in a list format, showing the discovered subdomains.
 
-    
+Installation:
+
+    Clone the repository:
+
+git clone https://github.com/yourusername/website-subdomain-finder.git
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the tool:
+
+python subdomain_finder.py
 
 ### Visitors :
 ![Visitor Count](https://profile-counter.glitch.me/shazed-x/count.svg)
