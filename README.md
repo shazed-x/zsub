@@ -31,7 +31,7 @@ Installation:
 
 Clone the repository:
 
-    https://github.com/shazed-x/zsub.git
+    git clone https://github.com/shazed-x/zsub.git
 
 Install dependencies:
 
